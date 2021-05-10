@@ -1,0 +1,7 @@
+NODE_ENV = development
+PORT = 5000
+MONGO_PASSWORD = vlog9yI2Vasv0GZE
+MONGO_USER = OnlineProSHop_2020
+JWT_TOKEN=abc123
+PAYPAL_CLIENT_ID = AeILCjcCpo-OTu8yJdvJ2kV-gMRmx_XFJSbOWYajRZkz1sC6qfBZvAhzrkezLRFlTemNZCeS9SQhMFRj
+MONGO_URI = "mongodb+srv://OnlineProSHop_2020:vlog9yI2Vasv0GZE@cluster0.sxljo.mongodb.net/proshop?retryWrites=true&w=majority"
